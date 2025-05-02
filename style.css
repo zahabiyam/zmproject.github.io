@@ -31,7 +31,7 @@ header.site-header .flex-row .nav li a{font-size: 1em;color: #fff;text-decoratio
 header.site-header .flex-row .col-9{display: flex;justify-content: end;gap: 2em;} 
 header.site-header .flex-row .col-9 .last-btn{list-style: none;} 
 header.site-header .flex-row .col-9 .last-btn li a{font-size: 1em;color: #000;text-decoration: none;padding: 0.5em 1.5em;background: #fff;border-radius: 15px;} 
-body .hero{position: relative;overflow: hidden;}
+body .hero{position: relative;overflow: hidden; height:809px;}
 body .hero .ab-row{position: absolute; width: 100%; top: 50%; left: 50%; transform: translate(-50%, -50%);}
 body .hero .ab-row .banner-txt {display: inline-block;padding: 0.5em 3em;background: #fff;border-radius: 100px;margin-bottom: 1em;color: #000;text-decoration: none;}
 body .hero .ab-row h1{font-size: 4em; font-weight: 400; color: #fff; letter-spacing: 0.4px; word-spacing: 0.5px;}
